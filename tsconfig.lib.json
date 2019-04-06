@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": false,
+    "declaration": true,
+    "jsx": "react",
+    "sourceMap": true
+  },
+  "extends": "./tsconfig.common.json"
+}
